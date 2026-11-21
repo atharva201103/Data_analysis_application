@@ -1,0 +1,204 @@
+Employee_ID,Department,Role,Hire_Date,Monthly_Salary,Performance_Rating,Years_at_Company,Overtime,Attrition,Job_Satisfaction,Annual_Absences
+EMP-2001,Finance,Product Manager,2021-02-24,83455.85,3,2,No,No,10.0,6
+EMP-2002,Engineering,Sales Executive,2021-08-11,,3,5,No,No,9.0,7
+EMP-2003,Engineering,Tech Lead,2020-09-12,126115.41,1,11,No,No,8.0,6
+EMP-2004,Marketing,Software Engineer,2020-12-08,86412.03,2,11,No,No,7.0,5
+EMP-2005,sales,Financial Analyst,2021-03-14,76105.44,3,3,No,No,8.0,4
+EMP-2006,sales,Software Engineer,2023-08-18,83610.3,2,5,No,Yes,4.0,3
+EMP-2007,engineering ,Financial Analyst,2022-03-30,122837.35,3,8,No,No,10.0,1
+EMP-2008,Product,Tech Lead,2021-01-25,108733.96,3,5,Yes,No,7.0,4
+EMP-2009,engineering ,HR Generalist,2020-01-18,109186.92,3,13,Yes,No,5.0,5
+EMP-2010,Engineering,HR Generalist,2020-04-02,125683.97,1,3,No,No,10.0,4
+EMP-2011,Engineering,Software Engineer,2023-08-29,134242.81,4,12,No,No,4.0,3
+EMP-2012,Product,Senior Analyst,2022-01-01,,2,2,No,No,8.0,3
+EMP-2013,Product,Senior Analyst,2022-09-05,91105.12,3,11,No,No,6.0,3
+EMP-2014,Marketing,Product Manager,2022-10-10,58654.99,2,11,No,No,6.0,4
+EMP-2015,Product,Sales Executive,2020-04-16,88821.67,3,6,No,No,3.0,7
+EMP-2016,Sales,Software Engineer,2022-05-31,380000.0,3,2,No,No,9.0,2
+EMP-2017,sales,Product Manager,2021-04-22,88046.29,2,7,No,No,9.0,3
+EMP-2018,Finance,Marketing Specialist,2020-06-14,71919.57,3,8,No,No,6.0,2
+EMP-2019,Finance,Marketing Specialist,2022-10-27,90818.45,3,14,Yes,Yes,5.0,1
+EMP-2020,Marketing,HR Generalist,2023-06-02,77219.48,5,1,No,No,6.0,3
+EMP-2021,Finance,Tech Lead,2021-11-30,82417.85,3,3,No,No,6.0,5
+EMP-2022,Marketing,Senior Analyst,2022-05-30,94129.3,2,9,No,Yes,2.0,2
+EMP-2023,Product,Software Engineer,2022-11-10,131193.43,5,6,No,No,5.0,3
+EMP-2024,Finance,HR Generalist,2022-07-04,91530.94,4,10,No,No,8.0,7
+EMP-2025,HR,Tech Lead,2020-10-22,64541.75,4,1,No,No,7.0,6
+EMP-2026,Marketing,Senior Analyst,2020-11-26,89140.29,3,1,No,No,6.0,4
+EMP-2027,Engineering,Financial Analyst,2022-07-09,129851.99,1,5,No,No,6.0,5
+EMP-2028,sales,Marketing Specialist,2023-06-12,80768.03,3,8,No,No,5.0,4
+EMP-2029,Product,Financial Analyst,2021-07-11,128937.22,4,8,No,No,7.0,3
+EMP-2030,Marketing,Tech Lead,2022-06-08,82236.3,2,5,No,No,10.0,3
+EMP-2031,Marketing,Marketing Specialist,2021-08-19,68112.73,4,6,No,No,8.0,2
+EMP-2032,Finance,Financial Analyst,2020-12-30,76925.49,3,1,Yes,Yes,8.0,3
+EMP-2033,engineering ,Product Manager,2021-06-16,112584.33,4,7,No,No,7.0,4
+EMP-2034,HR,Product Manager,2021-01-24,94705.59,4,6,No,No,3.0,5
+EMP-2035,Product,Sales Executive,2022-11-28,125117.62,4,12,No,No,8.0,2
+EMP-2036,Finance,Product Manager,2021-11-08,73658.95,5,4,No,No,6.0,4
+EMP-2037,Engineering,Senior Analyst,2020-12-06,106487.2,3,10,No,No,7.0,2
+EMP-2038,Sales,Product Manager,2020-08-08,81077.52,3,7,No,No,8.0,3
+EMP-2039,Engineering,Software Engineer,2020-07-18,100385.48,3,8,No,No,9.0,4
+EMP-2040,Product,Marketing Specialist,2021-05-28,104691.14,3,6,No,No,7.0,2
+EMP-2041,Engineering,Senior Analyst,2020-04-21,112662.26,4,7,Yes,Yes,8.0,12
+EMP-2042,Engineering,Software Engineer,2023-03-09,131392.89,2,14,Yes,No,5.0,5
+EMP-2043,sales,Software Engineer,2023-02-25,60478.42,3,10,No,No,5.0,4
+EMP-2044,Engineering,Financial Analyst,2022-05-12,115821.44,4,4,No,No,5.0,5
+EMP-2045,Finance,Marketing Specialist,2021-06-24,71288.41,2,2,Yes,No,4.0,7
+EMP-2046,HR,HR Generalist,2022-02-19,82188.15,4,14,No,Yes,8.0,85
+EMP-2047,sales,Sales Executive,2021-07-05,78734.58,3,5,No,No,3.0,6
+EMP-2048,HR,Software Engineer,2022-01-01,66659.87,3,3,No,No,9.0,7
+EMP-2049,sales,Software Engineer,2021-07-21,93280.51,4,14,No,No,7.0,1
+EMP-2050,sales,Sales Executive,2020-03-03,69982.23,5,11,Yes,No,4.0,3
+EMP-2051,Finance,HR Generalist,2021-05-25,94249.01,1,7,No,No,8.0,8
+EMP-2052,HR,Software Engineer,2022-04-05,78302.07,2,10,No,No,8.0,7
+EMP-2053,Product,Software Engineer,2020-08-01,114941.27,3,11,No,No,9.0,3
+EMP-2054,Marketing,Sales Executive,2020-01-05,72243.76,3,1,Yes,Yes,7.0,4
+EMP-2055,Finance,HR Generalist,2021-07-24,95170.67,3,8,No,No,6.0,1
+EMP-2056,sales,Software Engineer,2023-05-07,76034.27,3,2,No,No,7.0,6
+EMP-2057,Finance,Marketing Specialist,2020-07-20,99694.56,2,5,No,No,8.0,3
+EMP-2058,Engineering,Tech Lead,2023-05-28,139288.77,5,6,No,No,7.0,4
+EMP-2059,Marketing,Financial Analyst,2020-02-10,81489.74,4,4,No,No,10.0,3
+EMP-2060,Marketing,Tech Lead,2020-07-19,71022.48,4,12,No,No,7.0,4
+EMP-2061,engineering ,Senior Analyst,2022-02-08,115510.76,1,2,Yes,Yes,5.0,4
+EMP-2062,Product,Marketing Specialist,2020-06-26,,2,12,Yes,Yes,6.0,5
+EMP-2063,Finance,Marketing Specialist,2020-06-14,105559.3,3,9,No,No,10.0,4
+EMP-2064,engineering ,HR Generalist,2022-06-20,89702.89,5,3,Yes,Yes,7.0,6
+EMP-2065,Engineering,HR Generalist,2020-10-30,95948.08,3,2,No,Yes,9.0,6
+EMP-2066,Finance,Software Engineer,2021-04-01,100715.42,3,3,No,No,10.0,4
+EMP-2067,Product,Senior Analyst,2022-04-19,134458.48,3,3,Yes,No,6.0,9
+EMP-2068,HR,Marketing Specialist,2020-10-08,84652.54,4,7,Yes,No,5.0,2
+EMP-2069,sales,Marketing Specialist,2022-01-29,67903.25,3,9,No,No,5.0,5
+EMP-2070,Finance,Senior Analyst,2020-05-20,92746.36,3,13,Yes,Yes,7.0,1
+EMP-2071,HR,Product Manager,2021-08-21,57005.02,2,12,Yes,No,5.0,4
+EMP-2072,Finance,Software Engineer,2020-12-12,62010.92,4,12,No,No,7.0,2
+EMP-2073,Sales,Marketing Specialist,2023-09-07,73716.21,5,10,No,No,6.0,3
+EMP-2074,Marketing,HR Generalist,2023-04-13,73130.05,2,8,No,No,6.0,5
+EMP-2075,Marketing,Sales Executive,2021-12-28,61837.92,4,1,No,No,5.0,3
+EMP-2076,Marketing,Software Engineer,2023-02-25,54584.54,3,5,Yes,No,3.0,5
+EMP-2077,sales,Tech Lead,2020-09-16,82233.04,3,14,No,No,6.0,5
+EMP-2078,sales,Tech Lead,2020-06-20,71611.25,3,12,No,No,,3
+EMP-2079,sales,Sales Executive,2022-09-13,54155.26,3,12,Yes,Yes,6.0,5
+EMP-2080,engineering ,Sales Executive,2020-06-10,111695.61,1,2,No,No,10.0,8
+EMP-2081,Finance,Senior Analyst,2022-09-25,103447.41,3,7,No,No,3.0,3
+EMP-2082,Sales,HR Generalist,2020-12-13,80794.59,3,7,Yes,No,10.0,2
+EMP-2083,Engineering,Software Engineer,2023-05-21,98011.73,3,10,No,No,5.0,2
+EMP-2084,Engineering,Senior Analyst,2023-05-20,110508.16,3,11,No,No,9.0,6
+EMP-2085,HR,Tech Lead,2023-01-25,55208.47,3,1,No,Yes,10.0,2
+EMP-2086,Engineering,Marketing Specialist,2021-09-04,110119.33,3,5,No,No,9.0,2
+EMP-2087,Finance,Sales Executive,2023-03-26,76423.68,3,12,No,No,9.0,5
+EMP-2088,HR,Senior Analyst,2021-04-09,59457.44,3,7,No,No,8.0,3
+EMP-2089,Product,Senior Analyst,2023-03-10,,3,7,No,No,7.0,5
+EMP-2090,Finance,HR Generalist,2023-09-01,94993.82,2,9,No,Yes,8.0,6
+EMP-2091,Sales,Tech Lead,2021-06-04,,3,1,Yes,Yes,6.0,3
+EMP-2092,sales,Marketing Specialist,2020-12-25,109312.22,5,14,No,No,6.0,4
+EMP-2093,sales,Product Manager,2023-08-26,73909.15,4,12,No,No,8.0,4
+EMP-2094,engineering ,Marketing Specialist,2021-03-08,115345.78,5,1,Yes,Yes,9.0,6
+EMP-2095,Marketing,Marketing Specialist,2023-05-27,72629.7,4,8,No,No,6.0,6
+EMP-2096,Marketing,Senior Analyst,2023-02-12,107907.73,3,8,No,No,8.0,2
+EMP-2097,Finance,Product Manager,2021-07-15,109122.94,3,10,Yes,Yes,6.0,3
+EMP-2098,Engineering,Product Manager,2020-03-07,99526.64,5,3,No,Yes,7.0,2
+EMP-2099,Engineering,Senior Analyst,2021-06-19,105121.44,4,14,No,No,6.0,4
+EMP-2100,HR,Tech Lead,2020-09-02,,5,5,Yes,No,7.0,3
+EMP-2101,engineering ,Senior Analyst,2023-02-02,95229.34,4,5,Yes,No,3.0,3
+EMP-2102,sales,Marketing Specialist,2020-05-26,69646.2,4,3,No,No,3.0,5
+EMP-2103,Engineering,Senior Analyst,2023-09-30,103613.03,4,8,Yes,No,8.0,2
+EMP-2104,sales,Product Manager,2020-06-19,101493.55,3,9,No,No,6.0,3
+EMP-2105,sales,Product Manager,2021-03-03,70969.05,3,6,No,Yes,7.0,2
+EMP-2106,Product,Financial Analyst,2022-03-07,119879.26,5,10,No,No,8.0,6
+EMP-2107,Product,Marketing Specialist,2020-12-22,107102.94,2,4,No,Yes,4.0,2
+EMP-2108,engineering ,HR Generalist,2020-08-01,121374.65,2,3,No,No,7.0,1
+EMP-2109,HR,HR Generalist,2022-09-08,87983.0,3,11,No,No,6.0,4
+EMP-2110,Sales,Sales Executive,2021-06-18,68081.59,4,3,No,No,6.0,5
+EMP-2111,Sales,Marketing Specialist,2021-09-15,75125.28,3,9,Yes,No,7.0,4
+EMP-2112,sales,Sales Executive,2023-06-14,,4,2,No,No,6.0,4
+EMP-2113,Sales,Tech Lead,2023-09-03,105068.37,3,10,Yes,No,6.0,7
+EMP-2114,sales,Financial Analyst,2023-01-11,104878.75,3,7,Yes,No,7.0,5
+EMP-2115,Engineering,Product Manager,2020-03-17,150634.61,3,3,No,No,3.0,1
+EMP-2116,sales,Product Manager,2021-12-27,110415.81,1,1,Yes,Yes,4.0,3
+EMP-2117,engineering ,HR Generalist,2023-10-23,101420.5,5,4,No,No,6.0,4
+EMP-2118,Engineering,Senior Analyst,2021-05-03,109991.08,4,13,No,No,9.0,5
+EMP-2119,Marketing,Financial Analyst,2022-05-08,71977.56,5,6,Yes,No,4.0,4
+EMP-2120,HR,Product Manager,2020-10-19,81433.36,5,1,No,Yes,,2
+EMP-2121,Sales,HR Generalist,2021-06-13,73363.9,4,11,No,No,5.0,4
+EMP-2122,Marketing,Sales Executive,2022-07-02,91601.39,2,3,No,No,8.0,6
+EMP-2123,Sales,Tech Lead,2020-04-01,67283.48,3,12,No,No,,5
+EMP-2124,engineering ,Tech Lead,2022-08-17,109402.21,3,11,No,No,8.0,6
+EMP-2125,Marketing,Marketing Specialist,2021-08-02,51396.01,3,6,No,No,5.0,5
+EMP-2126,sales,Product Manager,2021-03-27,88783.98,3,2,No,Yes,7.0,4
+EMP-2127,engineering ,HR Generalist,2020-12-16,83178.98,5,4,No,No,9.0,3
+EMP-2128,engineering ,Marketing Specialist,2022-08-13,91070.54,3,4,No,No,6.0,7
+EMP-2129,sales,Software Engineer,2020-01-21,,2,7,No,Yes,7.0,8
+EMP-2130,engineering ,Sales Executive,2022-05-21,99349.44,2,8,No,No,8.0,3
+EMP-2131,Marketing,Sales Executive,2023-09-17,52058.83,3,12,No,Yes,2.0,3
+EMP-2132,Product,Senior Analyst,2023-05-21,116644.69,5,4,Yes,Yes,5.0,5
+EMP-2133,Finance,Marketing Specialist,2021-10-21,69425.66,3,9,No,Yes,5.0,5
+EMP-2134,Product,HR Generalist,2022-03-09,104250.95,4,12,Yes,Yes,9.0,3
+EMP-2135,sales,Marketing Specialist,2022-11-11,94023.16,4,10,Yes,No,7.0,6
+EMP-2136,engineering ,Tech Lead,2020-05-04,112292.07,3,3,No,Yes,7.0,8
+EMP-2137,Marketing,Software Engineer,2022-08-10,57044.72,4,9,Yes,Yes,7.0,4
+EMP-2138,Marketing,HR Generalist,2020-06-25,81989.99,2,8,No,Yes,5.0,5
+EMP-2139,engineering ,Sales Executive,2020-07-31,113822.55,4,6,No,No,7.0,6
+EMP-2140,sales,Senior Analyst,2020-12-04,71617.94,3,11,Yes,No,8.0,2
+EMP-2141,Finance,Tech Lead,2021-05-19,106486.51,5,6,No,No,6.0,4
+EMP-2142,Engineering,Product Manager,2023-07-19,124194.77,2,13,No,Yes,10.0,6
+EMP-2143,sales,Sales Executive,2022-01-29,90905.97,2,6,No,No,8.0,6
+EMP-2144,Engineering,Financial Analyst,2020-11-29,143369.48,3,4,No,No,5.0,2
+EMP-2145,engineering ,Product Manager,2021-11-16,109280.68,5,14,No,No,7.0,6
+EMP-2146,engineering ,Sales Executive,2023-06-18,112182.93,3,12,Yes,No,6.0,6
+EMP-2147,Finance,Product Manager,2022-08-07,116376.32,3,9,No,No,6.0,5
+EMP-2148,HR,Sales Executive,2022-10-04,78136.19,5,3,Yes,Yes,7.0,6
+EMP-2149,sales,Senior Analyst,2022-08-17,96968.35,3,1,Yes,No,,0
+EMP-2150,Engineering,Sales Executive,2022-11-08,115256.74,3,5,No,No,,3
+EMP-2151,sales,Financial Analyst,2023-03-06,82256.11,3,2,No,No,7.0,4
+EMP-2152,sales,Product Manager,2020-07-02,77900.65,4,4,No,No,,7
+EMP-2153,Product,Financial Analyst,2022-05-09,124249.83,2,10,No,No,5.0,5
+EMP-2154,engineering ,Senior Analyst,2021-06-30,107798.49,3,6,Yes,Yes,5.0,3
+EMP-2155,Engineering,Software Engineer,2023-01-03,110718.8,3,7,No,No,,1
+EMP-2156,HR,Software Engineer,2022-07-25,55830.95,3,5,Yes,No,7.0,6
+EMP-2157,Engineering,Product Manager,2021-10-31,102918.98,2,13,No,No,5.0,3
+EMP-2158,Sales,Senior Analyst,2022-12-17,86780.67,3,13,No,No,8.0,5
+EMP-2159,Sales,Marketing Specialist,2020-08-04,82033.71,2,7,No,Yes,10.0,3
+EMP-2160,sales,Sales Executive,2022-03-02,77411.66,3,14,No,No,3.0,2
+EMP-2161,Sales,Tech Lead,2020-06-21,82364.76,4,4,No,No,6.0,6
+EMP-2162,Product,Tech Lead,2022-02-05,101200.25,3,6,No,No,6.0,4
+EMP-2163,Engineering,Sales Executive,2023-08-24,57979.33,4,8,Yes,No,4.0,3
+EMP-2164,engineering ,Senior Analyst,2020-04-18,101994.3,4,8,No,No,5.0,4
+EMP-2165,sales,Product Manager,2022-05-01,88146.87,3,13,No,No,6.0,4
+EMP-2166,engineering ,HR Generalist,2022-09-15,109155.61,3,4,No,No,9.0,3
+EMP-2167,sales,HR Generalist,2021-06-26,91362.24,3,6,No,No,8.0,8
+EMP-2168,Engineering,Marketing Specialist,2022-08-08,114520.51,4,8,No,No,6.0,5
+EMP-2169,engineering ,Software Engineer,2022-08-01,117130.1,1,13,Yes,Yes,10.0,4
+EMP-2170,HR,HR Generalist,2023-04-27,50114.87,4,2,Yes,No,8.0,5
+EMP-2171,sales,Financial Analyst,2023-02-07,62337.93,4,7,No,Yes,8.0,4
+EMP-2172,Engineering,Product Manager,2020-12-22,118119.75,2,2,No,Yes,3.0,5
+EMP-2173,engineering ,Sales Executive,2021-09-02,142009.87,4,10,Yes,Yes,4.0,3
+EMP-2174,sales,Tech Lead,2020-09-13,82229.17,2,4,No,Yes,7.0,2
+EMP-2175,engineering ,Senior Analyst,2021-03-26,138759.08,3,3,No,Yes,5.0,5
+EMP-2176,Marketing,Product Manager,2021-05-17,,3,13,No,No,5.0,2
+EMP-2177,Finance,Marketing Specialist,2022-03-24,71076.29,4,8,No,Yes,5.0,3
+EMP-2178,HR,Senior Analyst,2022-02-04,,4,3,Yes,No,8.0,4
+EMP-2179,engineering ,HR Generalist,2021-03-06,134849.11,3,5,No,No,6.0,6
+EMP-2180,engineering ,Tech Lead,2022-10-29,123896.05,4,8,Yes,Yes,9.0,6
+EMP-2181,Finance,Software Engineer,2020-03-03,89443.19,4,11,Yes,No,8.0,1
+EMP-2182,sales,Product Manager,2022-08-25,74691.59,3,11,No,Yes,5.0,0
+EMP-2183,sales,Tech Lead,2021-08-16,99830.24,3,11,No,No,10.0,4
+EMP-2184,Product,Sales Executive,2022-08-26,109424.33,4,3,Yes,Yes,5.0,4
+EMP-2185,Sales,Software Engineer,2020-05-20,74312.41,1,9,No,No,8.0,2
+EMP-2186,engineering ,Senior Analyst,2022-05-13,90137.36,3,12,Yes,No,4.0,5
+EMP-2187,engineering ,Senior Analyst,2020-10-05,137880.39,3,6,Yes,No,7.0,1
+EMP-2188,Marketing,Marketing Specialist,2022-08-30,,3,14,No,No,5.0,6
+EMP-2189,engineering ,Product Manager,2021-12-12,104415.66,3,8,Yes,No,7.0,6
+EMP-2190,Product,Product Manager,2020-12-20,138665.27,4,12,No,No,2.0,8
+EMP-2191,Marketing,Product Manager,2021-04-18,122103.55,3,4,No,No,3.0,2
+EMP-2192,Sales,Sales Executive,2021-07-20,91108.9,3,8,No,No,7.0,4
+EMP-2193,Product,Product Manager,2021-09-02,123800.06,3,9,No,No,8.0,3
+EMP-2194,engineering ,Senior Analyst,2020-11-23,122423.56,1,8,No,No,8.0,6
+EMP-2195,engineering ,Sales Executive,2020-04-13,92389.61,4,6,No,No,9.0,2
+EMP-2196,HR,Financial Analyst,2020-06-10,56178.96,3,7,Yes,No,7.0,5
+EMP-2197,engineering ,Marketing Specialist,2021-02-18,99986.66,2,12,Yes,Yes,10.0,3
+EMP-2198,Engineering,Tech Lead,2021-08-12,103355.52,3,12,Yes,No,8.0,0
+EMP-2199,sales,Product Manager,2023-06-24,78768.84,3,12,Yes,No,7.0,8
+EMP-2200,engineering ,Product Manager,2021-09-28,,4,9,No,No,4.0,7
+EMP-2001,Finance,Product Manager,2021-02-24,83455.85,3,2,No,No,10.0,6
+EMP-2002,Engineering,Sales Executive,2021-08-11,,3,5,No,No,9.0,7
+EMP-2003,Engineering,Tech Lead,2020-09-12,126115.41,1,11,No,No,8.0,6
